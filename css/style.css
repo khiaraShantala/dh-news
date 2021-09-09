@@ -1,0 +1,17 @@
+
+header {
+    color: red;
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+footer {
+    padding:20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
